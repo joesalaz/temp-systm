@@ -1,2 +1,2 @@
-# temp-systm
-This File has been modified by me
+# template-system
+Creted template system with JavaScript in my early stages of learning
